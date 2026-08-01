@@ -1,0 +1,238 @@
+
+* French Learning Plan                                               :french:
+
+** Week 1-2: Adjective Agreement & Basic Vocabulary
+
+*** Lesson 1: Adjective Agreement Basics
+
+    - Focus on adjective endings (gender and number).
+
+
+    - Learn basic adjectives and how to match them with nouns:
+
+      - **gentil (m)** – kind
+
+      - **gentille (f)** – kind
+
+      - **beau (m)** – beautiful
+
+      - **belle (f)** – beautiful
+
+      - **grand (m)** – tall, big
+
+      - **grande (f)** – tall, big
+
+    - Practice with sentences:
+
+      - **Il est gentil.** (He is kind.)
+
+      - **Elle est gentille.** (She is kind.)
+
+    - **Checkpoint**: Write 5 sentences using the adjectives above.
+  
+    SCHEDULED: <2025-01-30 08:00>
+
+*** DONE Lesson 2: Vocabulary Expansion
+    - Learn vocabulary related to daily life and food:
+
+      - **famille (f)** – family
+
+      - **ami (m)** – friend
+
+      - **chien (m)** – dog
+
+      - **chat (m)** – cat
+
+      - **pain (m)** – bread
+
+      - **fromage (m)** – cheese
+
+    - Practice using them in sentences:
+
+      - **J’ai un chien.** (I have a dog.)
+
+
+      - **Elle aime le fromage.** (She likes cheese.)
+
+
+  
+    SCHEDULED: <2025-02-01 08:00>
+
+*** DONE Lesson 3: More Adjective Agreement Practice
+    * Learn more complex adjectives and their gender/number forms:
+      
+      1. **heureux (m)** – happy
+
+      2. **heureuse (f)** – happy
+
+      3. **intéressant (m)** – interesting
+
+      4. **intéressante (f)** – interesting
+
+    * Practice using these in sentences:
+
+      1) **Le film est intéressant.** (The movie is interesting.)
+
+      2) **La conférence est intéressante.** (The conference is interesting.)
+
+    * **Checkpoint**: Write 5 sentences using new adjectives.
+  
+    SCHEDULED: <2025-02-03 08:00>
+
+*** Lesson 4: Vocabulary Expansion
+
+    1. Continue with vocabulary related to emotions and actions:
+       1. **content (m)** – happy, content
+
+       2. **contente (f)** – happy, content
+
+       3. **marcher** (verb) – to walk
+
+       4. **parler** (verb) – to speak
+
+       5. **manger** (verb) – to eat
+
+    2. Practice sentences:
+
+       1. **Je marche dans le parc.** (I walk in the park.)
+
+       2. **Elle mange une pomme.** (She eats an apple.)
+
+    3. **Checkpoint**: Create 5 sentences using verbs and adjectives.
+  
+    SCHEDULED: <2025-02-05 08:00>
+
+** Week 3-4: Comparative & Superlative Forms + Passé Composé
+
+*** DONE Lesson 5: Comparative Forms (Better, More, Less)
+    - Learn how to form comparisons using *plus* (more), *moins* (less), and *meilleur* (better):
+      - **plus** – more
+
+      - **moins** – less
+
+      - **meilleur (m)** – better
+
+      - **meilleure (f)** – better
+
+    - Practice sentences:
+      - **Ce film est plus intéressant.** (This movie is more interesting.)
+
+      - **Elle est moins gentille que lui.** (She is less kind than him.)
+
+      - **Ma série est meilleure.** (My series is better.)
+
+    - **Checkpoint**: Write 5 sentences comparing things you like.
+  
+    SCHEDULED: <2025-02-07 08:00>
+
+
+*** Lesson 6: Superlative Forms (Most)
+    - Learn superlative forms using *le plus* (the most) and *le moins* (the least):
+
+      - **le plus** – the most
+
+      - **le moins** – the least
+
+    - Practice sentences:
+
+      - **C’est le film le plus intéressant.** (It’s the most interesting movie.)
+
+      - **Elle est la plus gentille.** (She is the kindest.)
+
+    - **Checkpoint**: Write 5 superlative sentences.
+  
+    SCHEDULED: <2025-02-09 08:00>
+
+
+*** Lesson 7: Passé Composé (Past Tense)
+
+    - Learn how to form the passé composé using auxiliary verbs:
+      - **avoir** (to have): **J’ai mangé** (I ate)
+      - **être** (to be): **Je suis allé** (I went)
+
+    - Practice with regular verbs:
+      - **manger (to eat)**: **J’ai mangé** (I ate)
+      - **parler (to speak)**: **J’ai parlé** (I spoke)
+    - **Checkpoint**: Write 5 sentences in the passé composé.
+  
+    SCHEDULED: <2025-02-11 08:00>
+
+
+*** Lesson 8: Passé Composé Practice
+    - Practice with irregular verbs in passé composé:
+      - **avoir (to have)**: **J’ai eu** (I had)
+      - **être (to be)**: **J’ai été** (I was)
+      - **faire (to do)**: **J’ai fait** (I did)
+    - Practice sentences:
+      - **J’ai fait mes devoirs.** (I did my homework.)
+      - **Il a eu un accident.** (He had an accident.)
+    - **Checkpoint**: Write 5 sentences using passé composé with irregular verbs.
+  
+    SCHEDULED: <2025-02-13 08:00>
+
+** Week 5-6: Speaking & Listening Practice + Future Tense
+*** Lesson 9: Listening & Speaking
+    - Watch a French TV show or listen to a podcast. Focus on pronunciation and understanding:
+      - **Comment ça va ?** (How’s it going?)
+      - **Ça va bien.** (I’m doing well.)
+      - **Qu’est-ce que tu fais ?** (What are you doing?)
+    - Practice repeating phrases you hear.
+    - **Checkpoint**: Listen to 10 minutes of French and summarize.
+  
+    SCHEDULED: <2025-02-15 08:00>
+
+
+*** Lesson 10: Future Tense (Future Proche)
+    - Learn how to form the future tense using *aller + infinitive* (going to):
+      - **Je vais manger** (I’m going to eat)
+      - **Tu vas parler** (You’re going to speak)
+    - Practice sentences:
+      - **Je vais travailler demain.** (I’m going to work tomorrow.)
+      - **Ils vont voyager en France.** (They are going to travel to France.)
+    - **Checkpoint**: Write 5 sentences about future plans.
+  
+    SCHEDULED: <2025-02-17 08:00>
+
+
+*** DONE Lesson 11: Speaking Practice
+    - Practice speaking with a language partner or tutor. Focus on conversation starters and questions:
+      - **Où habites-tu ?** (Where do you live?)
+      - **Que fais-tu le week-end ?** (What do you do on weekends?)
+    - **Checkpoint**: Have a 10-minute conversation in French.
+  
+    SCHEDULED: <2025-02-19 08:00>
+
+
+*** Lesson 12: Future Tense Practice
+    - Continue practicing future tense with regular and irregular verbs:
+      - **Je vais étudier.** (I’m going to study.)
+      - **Tu vas manger.** (You’re going to eat.)
+    - **Checkpoint**: Write 10 sentences using future tense.
+  
+    SCHEDULED: <2025-02-21 08:00>
+
+** Week 7-8: Review & Advanced Sentence Construction
+*** Lesson 13: Vocabulary Review & Advanced Sentences
+    - Review all vocabulary learned so far.
+    - Focus on constructing longer sentences and paragraphs.
+    - **Checkpoint**: Write a short paragraph summarizing your day in French.
+    SCHEDULED: <2025-02-23 08:00>
+
+
+*** Lesson 14: Conditional Tense Introduction
+    - Learn the conditional tense (e.g., *je voudrais*, *j’aimerais*):
+      - **je voudrais** – I would like
+      - **j’aimerais** – I would love
+    - Practice sentences:
+      - **Je voudrais un café.** (I would like a coffee.)
+      - **J’aimerais visiter Paris.** (I would love to visit Paris.)
+    - **Checkpoint**: Write 5 conditional sentences.
+    SCHEDULED: <2025-02-25 08:00>
+
+
+*** Lesson 15: Review & Fluency Practice
+    - Review all tenses and vocabulary learned.
+    - Focus on speaking fluently and without hesitation.
+    - **Checkpoint**: Hold a 15-minute conversation in French, summarizing all topics learned.
+    SCHEDULED: <2025-02-27 08:00>
+
