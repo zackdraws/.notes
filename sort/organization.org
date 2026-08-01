@@ -1,8 +1,7 @@
 #+title: Organization Notes
 * Windows
-** Turn on computer 
 ** Create a user profile
-make sure it is short
+make sure it is short name
 ** Download a terminal (ucrt64 or any other terminal)
 ** . Halt Onedrive
 - before starting make sure to halt overdrive and uninstall bloatware on pc
@@ -13,10 +12,10 @@ to reach the home (or default) directory use the tilde key ~/
 ** Config Files -
 *** files for configuration are held on the computer usually
 - ~/ - is /mnt/c/users/my_name/ or C://users/my_name
-         ~/pictures/Screenshots/ - this is where screenshots are
-	 ~/ - this is where most user configuration files are
+	 ~/ - this is where most user configuration files are or ~/.config
 * 1. Structure -
 [[/mnt/c/./2026/]] - holds my 2026 art files
+or actually /c/2026
 AA for animation
 DES -
     - LAY - layout
@@ -29,4 +28,18 @@ DES -
 - or /mnt/c/s/2025/
 [[/c/.ok/2025]]       2025 - work files
 * Dotfiles - organize and control my settings
-create .dotfiles to to save your configurations
+create .dotfiles to to save your configurations 
+
+   .config
+   desktop.ini
+   .git
+   .gitattributes
+   .gitconfig
+   .gitignore
+   hotkeys
+   notes.md
+   ok
+   ps
+   py
+   README.md
+   sh
