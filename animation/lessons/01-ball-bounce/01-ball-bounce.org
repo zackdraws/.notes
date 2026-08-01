@@ -1,0 +1,15 @@
+#+title: Ball Bounce
+* Ball Bouce
+** - 
+1. Arc - make sure the ball moves along the natural path
+2. Timing and Spacing - consistent timing. The ball is spaced closer together towards the apex.
+make sure the ball loses momentum as the ball keeps going
+3. Squash and Stretch - the ball squashes after the contact and then stretches out.
+4. Solid Drawing - make sure the ball is consistent
+* Notes during
+copy and overwrite to move drawing <2026-07-31 Fri 20:46>
+* TVPaint - Bookmark
+- use a shortcut for bookmarks like c and then change the lighttable
+- circle the keys
+- make sure that ink is set in settings>general not wintab subpixel <2026-07-31 Fri 21:39>
+
