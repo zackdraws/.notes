@@ -1,0 +1,87 @@
+#+title: Animation
+* Principles of Animation
+** 12 Principles of Animation
+- Principles that are important for your animation-
+ - The Principles come from the Illusion of Life written by Frank and Ollie and devised by the Nine Old Men
+(Other Animation Book Richard Williams Animation Survival Kit
+  Illusion of Life )
+[[https://www.youtube.com/watch?v=V7KjHLRGdrc][summary video]]
+First think of the animation principles
+these are principles to use in your animation
+*** 1. Anticipation 
+- The anticipation of the action is what comes before the animation
+[[https://www.youtube.com/watch?v=XEzUjuPTDBo][Anticipation]]
+The Character thinks or plans out what they're going to do before doing it
+[[file://F://s/em/o/AN/AN_anticipation.jpg]]
+*** 2. Appeal - The design how it looks good
+[[https://www.youtube.com/watch?v=34ay_D7iljg][Appeal]]
+Design appeal
+[[file:F://s/em/o/SolidDrawing_Pinocchio.jpg]]
+*** 3. Staging - placement
+[[https://www.youtube.com/watch?v=spdLtlgNy4A][Staging]]
+how the character is placed or staged for the audience to see them
+which includes perspective
+[[file://F://s/em/o/perspective/perspective.jpg]]
+[[file://F://s/em/o/Comp/COMP_staging03.jpg]]
+[[file://F://s/em/o/Minions (1).jpg]]
+*** 4. Pose to Pose Straight Ahead
+[[https://www.youtube.com/watch?v=YJOt-wLnO5s][Pose to Pose Straight Ahead]]
+[[file://F://s/em/o/AN/Anim_Toniko_Pantoja_Straight_Ahead.gif]]
+**** Pose to Pose
+- Animating where you draw one pose and plan out the next pose and then animate the poses in between and plan them all out
+**** Straight Ahead
+- Animating where you draw one pose after the next 
+*** 5. Ease in and Ease out 
+- the favoring of inbetweens from either the first pose or the second pose if it's favored to the first drawing then it's ease in if it's to the second pose it's ease out
+[[https://www.youtube.com/watch?v=j2OWWhOn6ZM][Slow in and Out]]
+- Slow in is zoom in where it slows in to the second drawing
+Slow out drawings closer to the first drawing
+[[file://F://s/em/o/AN/AN_Ease_in.jpg]]
+*** 6. Secondary Action
+- the action that comes secondary to the first main action- a character twidling their thumbs or flipping a coin
+[[https://www.youtube.com/watch?v=tH2ysr541jI][Secondary Action]]
+a secondary action that follows differently from the first action
+[[file://F://s/em/o/AN/AN_Secondary_Action.jpg]] 
+*** 7. Drag and Follow Through - 
+[[https://www.youtube.com/watch?v=Myn6VjxrumQ][Drag and Follow Through]]
+[[file://F://s/em/o/AN/Follow Through and Overlapping Action.jpg]]
+[[file://F://s/em/o/AN/Follow Through and Overlapping Action 2.jpg]]
+*** 8. Solid Drawing
+Drawing good solid drawings that are three-dimensiona
+- think about the simple shapes that make up the character
+  -draw through shapes
+[[file://F://s/em/o/Simpsons Rough Drawing.png]]
+[[file://F://s/em/o/Simpsons Rough Drawing2.png]]
+[[file://F://s/em/o/Simpsons Rough Drawing3.png]]
+- good examples of solid drawing
+[[file://F://s/em/o/Lobster.png]]
+*** 9. Arcs - 
+[[https://www.youtube.com/watch?v=d_YDvWWo2uE][Arcs]]
+Characters move in natural arcs usually having an apex
+[[file://F://s/em/o/AN/AN_arcs.jpg]] 
+*** 10. Timing and Spacing - 
+[[https://www.youtube.com/watch?v=M5iO1Q0x4gs][Timing and Spacing]]
+The timing and how long different lengths that each thing moves
+[[file://F://s/em/o/AN/AN_Timing_and_Spacing.jpg]] 
+*** 11. Squash and Stretch - 
+[[https://www.youtube.com/watch?v=EhwyBl_tC-U][squash and stretch]]
+Objects will squash on the contact and usually stretch out of that
+[[file://F://s/em/o/AN/AN_Squash_and_Stretch.jpg]] 
+*** 12. Exaggeration - 
+[[https://www.youtube.com/watch?v=xXgv3_JaxTM][Exaggeration]]
+Exaggerate in order for emotions to be red easier by an audience
+[[file://F://s/em/o/AN/AN_Exaggeration.png]] 
+* Types of Drawings 
+** Keys
+** Breakdowns
+Breakdowns in animation are not the same as in-betweens breakdowns are the in-between poses of your keys or extreme drawings. The in-between drawings go in-between those
+** in-betweens
+
+* Extra Animation Rules or Principles
+Note from Mike and also just in general
+you want the first drawing to the best because that's what people will see in your animation and then the last drawing they will also see
+
+* Animators
+*** Kass Chapa
+https://twitter.com/kaoyumari
+* Animation Projects
