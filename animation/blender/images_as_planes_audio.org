@@ -1,0 +1,22 @@
+#+title: Blender Notes - adding sound to image planes
+- Select the image plane 
+- hold down Shift + S 
+
+Cursor
+choose Cursor to Selected 
+placing the 3D cursor at the plane's origin.
+
+Shift + A, go to Speaker, 
+(add it to the scene.)
+
+Parent
+- Select the speaker, 
+- hold Shift, 
+- select image plane.
+- Press Ctrl + P 
+- choose Object to parent
+- the speaker to the plane.
+- Load the Audio File:Select the speaker object.
+
+Put in distance:
+- Adjust Attenuation (Distance) 
