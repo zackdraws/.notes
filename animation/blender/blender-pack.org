@@ -1,0 +1,1 @@
+Pack-Resources packs all used files into the blend file

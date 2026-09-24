@@ -1,0 +1,28 @@
+3D Cursor - becomes part of the 3D scene - on imaginary plane that goes through the 3D cursor
+
+Surface - drawn on the surface of the object under the mouse.
+
+Image - part of just the 2D space
+
+View - Dame position as the screen
+
+
+Stabilize Stroke - reduces jitter
+ - radius - changes the distance before the stroke continues
+ - Factor - controls how smooth and how much you're pulling on it
+
+Annotate Line
+ Style Start, End - change how the line points - make an arrow or other shape
+
+Annotation Layers -
+Sidebar - View - Annotations -
+Opacity - Adjusts the opacity of existing and new strokes
+Thickness - Adjusts the thickness of existing and new strokes
+Onion Skin - Shows a ghosted image of strokes 
+
+
+
+
+
+
+
