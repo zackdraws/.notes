@@ -1,4 +1,7 @@
-3D Cursor - becomes part of the 3D scene - on imaginary plane that goes through the 3D cursor
+#+title: blender-annotate-placement
+** Cursors
+3D Cursor - becomes part of the 3D scene - 
+on imaginary plane that goes through the 3D cursor
 
 Surface - drawn on the surface of the object under the mouse.
 
@@ -6,7 +9,7 @@ Image - part of just the 2D space
 
 View - Dame position as the screen
 
-
+** Strokes and Lines
 Stabilize Stroke - reduces jitter
  - radius - changes the distance before the stroke continues
  - Factor - controls how smooth and how much you're pulling on it

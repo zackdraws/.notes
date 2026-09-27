@@ -1,1 +1,2 @@
-Shift-R
+#+title: Repeating actions
+use Shift-R to repeat what was just done.

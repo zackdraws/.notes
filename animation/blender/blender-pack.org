@@ -1,1 +1,2 @@
-Pack-Resources packs all used files into the blend file
+#+title: Blender Pack
+1. Pack-Resources - packs all used files into the blend file

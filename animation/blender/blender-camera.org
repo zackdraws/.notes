@@ -1,0 +1,10 @@
+#+title: Making a working camera screen in Blender Real time
+( LINK: https://www.youtube.com/watch?v=lKe6EpaEpy0 )
+node for 
+plane
+Material Output
+Ray Portal BSDF
+Mapping
+Texture Coordinator
+add cube
+
